@@ -3,7 +3,7 @@ This repositry contains dataset and code for the ACL2023 paper: [Annotating and 
 Summarization](https://aclanthology.org/2023.acl-long.377.pdf)
 
 ## Dataset
-We provide fine-grained annotations regarding factual errors in dialogue summarization. The data are sampled from [SAMSum](https://aclanthology.org/D19-5409/) and [DialogSum](https://aclanthology.org/2021.naacl-main.472/).
+We provide fine-grained annotations regarding factual errors in dialogue summarization. The data are sampled from [SAMSum](https://aclanthology.org/D19-5409/) and [QMSum](https://aclanthology.org/2021.naacl-main.472/).
 Our dataset contains 1340 sentence-level annotations (dialogue-sentence pairs).
 
 ### data format
